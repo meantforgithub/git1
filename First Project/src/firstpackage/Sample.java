@@ -1,5 +1,5 @@
 package firstpackage;
-//java
+//java is easy
 import java.io.Console;
 import java.lang.*;
 
